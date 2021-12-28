@@ -3,12 +3,11 @@ author: Jim Boyle
 email: boyle.james.j@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Product Manager at Westinghouse.
-  Nuclear nerd
-  Proud dad of Claire  
+  Proud Dad to Claire  
 
 # social links
 twitter_username: boyle.james.j # DO NOT include the @ character, or else the build will fail!
-github_username:  bpylej # DO NOT include the @ character, or else the build will fail!
+github_username:  boylejj # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
