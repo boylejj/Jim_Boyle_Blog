@@ -4,7 +4,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-# About Me
 ![Mugshot](https://user-images.githubusercontent.com/95828167/147855567-b1f1b7f1-f447-497f-ab3d-a135a5cf3095.png)
 
 Jim Boyle is a Product Manager at Westinghouse Electric Company, the world leader in nuclear power. 
